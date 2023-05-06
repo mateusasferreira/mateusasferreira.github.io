@@ -20,6 +20,7 @@ in cashback products, colaborating to the entire development lifecycle including
 
 ---
 
+
 **Anbetec** (Feb 2022 - Jun 2022) -
 <span style="opacity: 0.5">Goiânia - Brazil</span>
 
@@ -29,7 +30,8 @@ Contributed to the development of REST APIs and integrations to ERP systems for 
 
 ---
 
-Haittane (Jul 2021 - Feb 2022) <span style="opacity: 0.5">São Paulo - Brazil</span>
+
+**Haittane** (Jul 2021 - Feb 2022) <span style="opacity: 0.5">São Paulo - Brazil</span>
 
 Acted as a full-stack engineer on various products such as REST APIs and websites for different clients. Actively contributed to the development of software features and POCs, as well as bug fixing.
 
