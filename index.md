@@ -1,10 +1,6 @@
----
-layout: default
----
-
 <h1 style="text-align: center">Mateus Ferreira</h1>
 
-Hello :wave:
+Hello 👋
 
 I'm a Brazilian a Software Engineer who likes to build awesome things with technology.
 
