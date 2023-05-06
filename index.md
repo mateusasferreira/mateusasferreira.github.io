@@ -2,9 +2,6 @@
 layout: default
 ---
 
-<div class="container">
-  {{ content }}
+# Mateus Ferreira
 
-  # Mateus Ferreira
-  Hello I'm a software engineer
-</div>
+Hello I'm a software engineer
