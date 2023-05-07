@@ -1,12 +1,18 @@
 <h1 style="text-align: center; font-size: 2.5em">Mateus Ferreira</h1>
+
+<div style="display: flex; justify-content: center">
+  <img style="width: 200px; height: 200px; border-radius: 50%" src="./assets/profile.png">
+</div>
+
+
 <h3 style="text-align: center;">Software Developer</h3>
 
 <div style="display: flex; justify-content: center; gap: 5px">
  <a href="https://www.linkedin.com/in/mateus-ferreira-3315a1109" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:mateusasferreira28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+<a href = "mailto:mateusasferreira28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-<p style="font-weight: bold; text-align: center; margin-top: 30px">Hello 👋</p>
+<p style="font-weight: bold; text-align: center; margin-top: 40px">Hello 👋</p>
 
 <p style="font-weight: bold; text-align: center">I'm a Brazilian a Software Engineer who loves to build awesome things with technology.</p>
 
