@@ -5,19 +5,19 @@
 </div>
 
 
-<h3 style="text-align: center;">Software Developer</h3>
+<h2 style="text-align: center;">Software Developer</h2>
 
 <div style="display: flex; justify-content: center; gap: 5px">
  <a href="https://www.linkedin.com/in/mateus-ferreira-3315a1109" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:mateusasferreira28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<p style="font-weight: bold; text-align: center; margin-top: 40px">Hello 👋</p>
+<p style="font-weight: bold; text-align: center; margin-top: 40px; font-size: 20px">Hello 👋</p>
 
-<p style="font-weight: bold; text-align: center">I'm a Brazilian a Software Engineer who loves to build awesome things with technology.</p>
+<p style="font-weight: bold; text-align: center; font-size: 20px">I'm a Brazilian a Software Engineer who loves to build awesome things with technology.</p>
 
 
-<h2 style="font-size: 2em; text-align: center; margin: 40px 0 20px 0">🔧 Technologies</h2>
+<h2 style="font-size: 2em; text-align: center; margin: 60px 0 20px 0">🔧 Technologies</h2>
 
 <h4  style="text-align: center;">That I've been working with on a daily basis</h4>
 
@@ -46,7 +46,7 @@
 
 <p style="margin-bottom: 50px; font-style: italic; text-align: center; opacity: 0.5">(Python, AWS, Angular.js, React.js)</p>
 
-<h2 style="font-size: 2em; text-align: center; margin: 40px 0 20px 0">👨‍💻 Professional Experience</h2>
+<h2 style="font-size: 2em; text-align: center; margin: 60px 0 20px 0">👨‍💻 Professional Experience</h2>
 
 
 **MaisTodos** (Jun 2022 - currently) -
@@ -76,7 +76,7 @@ Acted as a full-stack engineer on various products such as REST APIs and website
 
 *Tools: Javascript, Typescript, Node.js, React.js, MySQL, Docker, Git*
 
-<h2 style="font-size: 2em; text-align: center; margin: 40px 0 20px 0">🏫 Education</h2>
+<h2 style="font-size: 2em; text-align: center; margin: 60px 0 20px 0">🏫 Education</h2>
 
 **Faculdade Impacta** (Feb 2021 - Dec 2023) - <span style="opacity: 0.5">São Paulo - Brazil</span>
 
