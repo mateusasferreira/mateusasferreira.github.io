@@ -1,7 +1,7 @@
 <h1 style="text-align: center; font-size: 2.5em">Mateus Ferreira</h1>
 
 <div style="display: flex; justify-content: center">
-  <img style="width: 200px; height: 200px; border-radius: 50%" src="./assets/profile.png">
+  <img style="width: 300px; height: 300px; border-radius: 50%" src="./assets/profile.png">
 </div>
 
 
@@ -34,7 +34,7 @@
 <p style="margin-bottom: 50px; font-style: italic; text-align: center; opacity: 0.5">(Javascript, Typescript, Node.js, Docker, Postgresql, Git, Jest)</p>
 
 
-<h4  style="text-align: center;">That I use sometimes or have use for a while</h4>
+<h4  style="text-align: center;">That I use sometimes or have used for a while</h4>
 
 
 <div style="margin: 40px 0 20px 0; display: flex; justify-content: center; gap: 5px">
@@ -88,13 +88,13 @@ Software Analisys and Development (Technologist Degree)
 
 <h2 style="font-size: 2em; text-align: center; margin: 40px 0">🌐 Languages</h2>
 
-**🇵🇹🇧🇷 Portuguese** <span style="opacity: 0.5">(Native)</span>
+<p style="font-weight: bold">🇵🇹🇧🇷 Portuguese <span style="opacity: 0.5">(Native)</span></p>
 
 
-**🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇲 English** <span style="opacity: 0.5">(Fluent)</span>
+<p style="font-weight: bold">🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇲 English <span style="opacity: 0.5">(Fluent)</span></p>
 
 
-**🇪🇸🇦🇷 Spanish** <span style="opacity: 0.5">(Advanced)</span>
+<p style="font-weight: bold">🇪🇸🇦🇷 Spanish <span style="opacity: 0.5">(Advanced)</span></p>
 
 </div>
 
@@ -102,29 +102,28 @@ Software Analisys and Development (Technologist Degree)
 
 <h2 style="font-size: 2em; text-align: center; margin: 40px 0">🤝 Soft Skills</h2>
 
-**🗣️ Communication**
+<p style="font-weight: bold">🗣️ Communication</p>
 
 
-**🧑🏿‍🤝‍🧑🏻 Team Player**
+<p style="font-weight: bold">🧑🏿‍🤝‍🧑🏻 Team Player</p>
 
 
-**🤔 Curiousity**
+<p style="font-weight: bold">🤔 Curiousity</p>
 
 
-**💡Fast learning**
+<p style="font-weight: bold">💡Fast learning</p>
 
 </div>
 
 <div>
 
-<div>
 <h2 style="font-size: 2em; text-align: center; margin: 40px 0">🖌️ Hobbies</h2>
 
-**👨‍🍳 Cooking**
+<p style="font-weight: bold">👨‍🍳 Cooking</p>
 
-**🎸 Music**
+<p style="font-weight: bold">🎸 Music</p>
 
-**⚽ Football**
+<p style="font-weight: bold">⚽ Football</p>
 
 </div>
 
