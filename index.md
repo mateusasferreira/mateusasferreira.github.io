@@ -84,7 +84,9 @@ Software Analisys and Development (Technologist Degree)
 
 **🇵🇹🇧🇷 Portuguese** <span style="opacity: 0.5">(Native)</span>
 
+
 **🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇲 English** <span style="opacity: 0.5">(Fluent)</span>
+
 
 **🇪🇸🇦🇷 Spanish** <span style="opacity: 0.5">(Advanced)</span>
 
@@ -96,15 +98,20 @@ Software Analisys and Development (Technologist Degree)
 
 **🗣️ Communication**
 
+
 **🧑🏿‍🤝‍🧑🏻 Team Player**
+
 
 **🤔 Curiousity**
 
+
 **💡Fast learning**
+
 </div>
 
 <div>
 
+<div>
 <h2 style="font-size: 2em; text-align: center; margin: 40px 0">🖌️ Hobbies</h2>
 
 **👨‍🍳 Cooking**
