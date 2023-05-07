@@ -8,15 +8,15 @@
 
 <p style="font-weight: bold; text-align: center; margin-top: 30px">Hello 👋</p>
 
-<p style="font-weight: bold; text-align: center">I'm a Brazilian a Software Engineer who likes to build awesome things with technology.</p>
+<p style="font-weight: bold; text-align: center">I'm a Brazilian a Software Engineer who loves to build awesome things with technology.</p>
 
 
-<h2 style="font-size: 2em; text-align: center; margin: 40px 0">Technologies</h2>
+<h2 style="font-size: 2em; text-align: center; margin: 60px 0 40px 0">🔧 Technologies</h2>
 
 <h4  style="text-align: center;">That I've been working with on a daily basis</h4>
 
 
-<div style="margin: 30px 0 20px 0; display: flex; justify-content: center; gap: 5px">
+<div style="margin: 40px 0 20px 0; display: flex; justify-content: center; gap: 5px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width: 40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="width: 40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width: 40px">
@@ -31,7 +31,7 @@
 <h4  style="text-align: center;">That I use sometimes or have use for a while</h4>
 
 
-<div style="margin: 30px 0 20px 0; display: flex; justify-content: center; gap: 5px">
+<div style="margin: 40px 0 20px 0; display: flex; justify-content: center; gap: 5px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="width: 40px">
 <img src="./assets/aws.png" style="width: 40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="width: 40px">
@@ -41,7 +41,7 @@
 <p style="margin-bottom: 50px; font-style: italic; text-align: center; opacity: 0.5">(Python, AWS, Angular.js, React.js)</p>
 
 
-<h2 style="font-size: 2em; text-align: center; margin: 40px 0">Professional Experience</h2>
+<h2 style="font-size: 2em; text-align: center; margin: 60px 0 40px 0">👨‍💻 Professional Experience</h2>
 
 **MaisTodos** (Jun 2022 - currently) -
 <span style="opacity: 0.5">Ribeirão Preto - Brazil</span>
@@ -64,8 +64,55 @@ Contributed to the development of REST APIs and integrations to ERP systems for 
 ---
 
 
-**Haittane** (Jul 2021 - Feb 2022) <span style="opacity: 0.5">São Paulo - Brazil</span>
+**Haittane** (Jul 2021 - Feb 2022) - <span style="opacity: 0.5">São Paulo - Brazil</span>
 
 Acted as a full-stack engineer on various products such as REST APIs and websites for different clients. Actively contributed to the development of software features and POCs, as well as bug fixing.
 
 *Tools: Javascript, Typescript, Node.js, React.js, MySQL, Docker, Git*
+
+<h2 style="font-size: 2em; text-align: center; margin: 60px 0 40px 0">🏫 Education</h2>
+
+**Faculdade Impacta** (Feb 2021 - Dec 2023) - <span style="opacity: 0.5">São Paulo - Brazil</span>
+
+Software Analisys and Development (Technologist Degree)
+
+<div style="margin-top: 30px;display: flex; justify-content: space-around">
+
+<div>
+
+<h2 style="font-size: 2em; text-align: center; margin: 40px 0">🌐 Languages</h2>
+
+**🇵🇹🇧🇷 Portuguese** <span style="opacity: 0.5">(Native)</span>
+
+**🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇲 English** <span style="opacity: 0.5">(Fluent)</span>
+
+**🇪🇸🇦🇷 Spanish** <span style="opacity: 0.5">(Advanced)</span>
+
+</div>
+
+<div>
+
+<h2 style="font-size: 2em; text-align: center; margin: 40px 0">🤝 Soft Skills</h2>
+
+**🗣️ Communication**
+
+**🧑🏿‍🤝‍🧑🏻 Team Player**
+
+**🤔 Curiousity**
+
+**💡Fast learning**
+</div>
+
+<div>
+
+<h2 style="font-size: 2em; text-align: center; margin: 40px 0">🖌️ Hobbies</h2>
+
+**👨‍🍳 Cooking**
+
+**🎸 Music**
+
+**⚽ Football**
+
+</div>
+
+</div>
