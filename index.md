@@ -5,7 +5,7 @@
 </div>
 
 
-<h2 style="text-align: center;">Software Developer</h2>
+<h2 style="text-align: center;">Software Engineer</h2>
 
 <div style="display: flex; justify-content: center; gap: 5px">
  <a href="https://www.linkedin.com/in/mateus-ferreira-3315a1109" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -14,7 +14,7 @@
 
 <p style="font-weight: bold; text-align: center; margin-top: 40px; font-size: 20px">Hello 👋</p>
 
-<p style="font-weight: bold; text-align: center; font-size: 20px">I'm a Brazilian a Software Engineer who loves to build awesome things with technology.</p>
+<p style="font-weight: bold; text-align: center; font-size: 20px">I'm a Brazilian Software Engineer who loves to build awesome things with technology.</p>
 
 
 <h2 style="font-size: 2em; text-align: center; margin: 60px 0 20px 0">🔧 Technologies</h2>
@@ -52,8 +52,7 @@
 **MaisTodos** (Jun 2022 - currently) -
 <span style="opacity: 0.5">Ribeirão Preto - Brazil</span>
 
-I've been acting as a full-stack engineer
-in cashback products, colaborating to the entire development lifecycle including development, testing, bug fixing, code review, requirements analisys, etc.
+I've been acting as a full-stack engineer on cashback products, colaborating to the entire development lifecycle including development, testing, bug fixing, code review, requirements analisys, etc.
 
 *Tools: Javascript, Typescript, Node.js, Angular.js, Python, Postgresql, Docker, Jest, Git*
 
@@ -82,7 +81,7 @@ Acted as a full-stack engineer on various products such as REST APIs and website
 
 Software Analisys and Development (Technologist Degree)
 
-<div style="margin-top: 30px;display: flex; justify-content: space-around">
+<div style="margin-top: 30px; display: flex; justify-content: space-around; flex-wrap: wrap">
 
 <div>
 
