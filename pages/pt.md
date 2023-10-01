@@ -2,7 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: cv
+permalink: /pt
 
 title: Mateus Ferreira
 description: >
@@ -65,60 +66,4 @@ extras:
       - Music
       - Football
 
-
-
 ---
-
-# {{ page.title }}
-
-### {{page.description}}
-
-<div style="display: flex; gap: 5px">
- <a href="{{site.linkedin}}" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:{{site.email}}"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-
-<div class="section">
-  <h2>{{ page.technologies.title }}</h2>
-  {% for section in page.technologies.sections %}
-    <h3>{{section.title}}</h3>
-    {% for item in section.entries %}
-      <img src="{{item.src_path}}" class="icon">
-    {% endfor %}
-  {% endfor %}
-</div>
-
-<div class="section">
-  <h2> {{ page.experience.title }} </h2>
-  {% for item in page.experience.entries %}
-    <h3> {{item.name}} </h3>
-    <h4>{{item.position}}</h4>
-    <span> {{item.period}} </span>
-    <p> {{item.description}} </p>
-  {% endfor %}
-</div>
-
-<div class="section">
-  <h2> {{ page.education.title }} </h2>
-  {% for item in page.education.entries %}
-    <h3> {{item.institutions}} </h3>
-    <span>{{ item.type }}</span>
-    <h4> {{item.period}} </h4>
-    <p> {{item.name}} </p>
-  {% endfor %}
-</div>
-
-<div style="margin-top: 30px; display: flex; justify-content: space-around; flex-wrap: wrap">
-  {% for extra in page.extras %}
-    <div>
-
-    <h2 style="font-size: 2em; text-align: center; margin: 40px 0">{{extra.title}}</h2>
-
-    {% for entry in extra.entries %}
-      <p style="font-weight: bold">{{entry}}</p>
-    {% endfor %}
-    </div>
-  {% endfor %}
-
-</div>

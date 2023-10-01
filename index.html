@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        let lang = 'en'
+
+        if(navigator.language) {
+            const prefix = navigator.language.split('-')[0]
+
+            if (['en', 'pt'].includes(prefix)) {
+                lang = prefix
+            }
+        }
+        window.location.href = "/" + lang;
+    </script>
+</head>
+<body>
+</body>
+</html>
