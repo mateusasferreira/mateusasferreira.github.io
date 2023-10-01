@@ -1,15 +1,13 @@
 html {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: red;
 }
 
 h1, h2, h3 {
     opacity: 0.8;
-    color: blue;
 }
 
 .container {
-    max-width: 500px;
+    max-width: 1024px;
     margin: 0 auto;
 }
 
