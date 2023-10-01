@@ -2,6 +2,19 @@ html {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+nav {
+    height: 75px;
+    display: flex;
+    gap: 20px;
+    justify-content: end;
+    padding: 0 50px;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
 h1, h2, h3 {
     opacity: 0.8;
 }
