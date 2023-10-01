@@ -3,9 +3,9 @@ html {
 }
 
 nav {
-    height: 75px;
+    height: 100px;
     display: flex;
-    gap: 20px;
+    gap: 10px;
     justify-content: end;
     padding: 0 50px;
     align-items: center;
@@ -13,15 +13,55 @@ nav {
 
 a {
     text-decoration: none;
+    display: flex;
+    gap: 2px;
 }
 
-h1, h2, h3 {
+
+h1 {
+    font-size: 2.5em;
+    margin: 20px 0;
+}
+
+h2 {
+    font-size: 2em;
+    margin: 0 0 20px 0;
+}
+
+h3 {
+    font-size: 1.33em;
+}
+
+.secondary {
+    color: #444;
+}
+
+.blur {
     opacity: 0.8;
+}
+
+h3, h4, p, span {
+    margin: 0 0 10px 0;
+}
+
+.block {
+    margin-bottom: 30px;
 }
 
 .container {
     max-width: 1024px;
     margin: 0 auto;
+}
+
+.section {
+    margin-bottom: 50px;
+}
+
+.section-flex {
+    margin-bottom: 50px;
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
 }
 
 .icon {

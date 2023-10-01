@@ -21,41 +21,51 @@ layout: default
         <div class="section">
             <h2>{{ page.technologies.title }}</h2>
             {% for section in page.technologies.sections %}
-              <h3>{{section.title}}</h3>
-              {% for item in section.entries %}
-                <img src="{{item.src_path}}" class="icon">
-              {% endfor %}
+              <div class="block">
+                <h4 class="blur">{{section.title}}</h4>
+                <div style="margin: 20px 0 5px ">
+                  {% for item in section.entries %}
+                    <img src="{{item.src_path}}" class="icon">
+                  {% endfor %}
+                </div>
+                <p class="blur secondary" style="font-size: 0.7em">({% for item in section.entries %}
+                  {{item.name}},
+                {% endfor %})</p>
+              </div>
+
             {% endfor %}
           </div>
 
           <div class="section">
             <h2> {{ page.experience.title }} </h2>
             {% for item in page.experience.entries %}
-              <h3> {{item.name}} </h3>
-              <h4>{{item.position}}</h4>
-              <span> {{item.period}} </span>
-              <p> {{item.description}} </p>
+              <div class="block">
+                <h3> {{item.name}} </h3>
+                <h4 class="secondary" >{{item.position}}</h4>
+                <p class="secondary blur"> {{item.period}} </p>
+                <p> {{item.description}} </p>
+              </div>
             {% endfor %}
           </div>
 
           <div class="section">
             <h2> {{ page.education.title }} </h2>
             {% for item in page.education.entries %}
-              <h3> {{item.institutions}} </h3>
-              <span>{{ item.type }}</span>
-              <h4> {{item.period}} </h4>
+              <h3> {{item.institution}} </h3>
+              <h4 class="secondary">{{ item.type }}</h4>
+              <p class="secondary blur"> {{item.period}} </p>
               <p> {{item.name}} </p>
             {% endfor %}
           </div>
 
-          <div style="margin-top: 30px; display: flex; justify-content: space-around; flex-wrap: wrap">
+          <div class="section-flex">
             {% for extra in page.extras %}
               <div>
 
-              <h2 style="font-size: 2em; text-align: center; margin: 40px 0">{{extra.title}}</h2>
+              <h3>{{extra.title}}</h3>
 
               {% for entry in extra.entries %}
-                <p style="font-weight: bold">{{entry}}</p>
+                <p>{{entry}}</p>
               {% endfor %}
               </div>
             {% endfor %}

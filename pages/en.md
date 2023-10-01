@@ -54,7 +54,7 @@ extras:
       - Portuguese (Native)
       - English (Fluent)
       - Spanish (Advanced)
-  - title: Soft Skilss
+  - title: Soft Skills
     entries:
       - Communication
       - Team Playing
