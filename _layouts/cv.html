@@ -28,8 +28,8 @@ layout: default
                     <img src="{{item.src_path}}" class="icon">
                   {% endfor %}
                 </div>
-                <p class="blur secondary" style="font-size: 0.7em">({% for item in section.entries %}
-                  {{item.name}},
+                <p class="blur secondary" style="font-size: 0.7em">
+                ({% for item in section.entries %}{{item.name}}{% unless forloop.last %}, {% endunless -%}
                 {% endfor %})</p>
               </div>
 
@@ -62,7 +62,7 @@ layout: default
             {% for extra in page.extras %}
               <div>
 
-              <h3>{{extra.title}}</h3>
+              <h2>{{extra.title}}</h2>
 
               {% for entry in extra.entries %}
                 <p>{{entry}}</p>

@@ -1,13 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: cv
 permalink: /en
 
 title: Mateus Ferreira
 description: >
-    Nulla nisi aute do nulla ullamco commodo ullamco est reprehenderit.
+    I'm a Brazilian Software Engineer with skills in full-stack development. I consider myself a flexible professional and a problem solver after all. 
 technologies:
   title: Technologies
   sections:
@@ -17,12 +14,28 @@ technologies:
           src_path: /assets/img/nodejs-original.svg
         - name: Python
           src_path: /assets/img/python-original.svg
-    - title: That I use sometimes or have used for a while
+        - name: Docker
+          src_path: /assets/img/docker-original.svg
+        - name: Postgresql
+          src_path: /assets/img/postgresql-original.svg
+        - name: Git 
+          src_path: /assets/img/git-original.svg
+        - name: Linux
+          src_path: /assets/img/linux-original.svg
+        - name: Jest
+          src_path: /assets/img/jest-plain.svg
+        - name: Pytest
+          src_path: /assets/img/pytest-plain.svg
+    - title: That I have some experience or have to deal with sometimes
       entries:
         - name: React
           src_path: /assets/img/react-original.svg
         - name: Angular
           src_path: /assets/img/angularjs-original.svg
+        - name: AWS Services
+          src_path: /assets/img/aws.png
+        - name: Selenium
+          src_path: /assets/img/selenium-original.svg
 experience:
   title: Professional Experience
   entries:
@@ -30,17 +43,17 @@ experience:
       position: Software Engineer
       period: Jun/2022 - ongoing
       description: >
-        Aliqua consequat est sunt irure. Occaecat et minim sunt consectetur voluptate minim cillum culpa. Duis proident officia labore aliquip ea proident quis magna eiusmod magna. Anim est cillum tempor nulla culpa anim.
+        I've been acting as a full-stack engineer on cashback products, colaborating to the entire development lifecycle including development, testing, bug fixing, code review, requirements analisys, etc.
     - name: Anbetec
       position: Software Engineer
       period: Feb/2022 - May/2022
       description: >
-        Aliqua consequat est sunt irure. Occaecat et minim sunt consectetur voluptate minim cillum culpa. Duis proident officia labore aliquip ea proident quis magna eiusmod magna. Anim est cillum tempor nulla culpa anim.
+        Contributed to the development of REST APIs and integrations to ERP systems for a short period of time.
     - name: Haittane
       position: Software Engineer
       period: Aug/2021 - Feb/2022
       description: >
-        Aliqua consequat est sunt irure. Occaecat et minim sunt consectetur voluptate minim cillum culpa. Duis proident officia labore aliquip ea proident quis magna eiusmod magna. Anim est cillum tempor nulla culpa anim.
+        Acted as a full-stack engineer on various products such as REST APIs and websites for different clients. Actively contributed to the development of software features and POCs, as well as bug fixing.
 education:
   title: Education
   entries:
