@@ -43,7 +43,7 @@ experience:
       position: Engenheiro de Software
       period: Jun/2022 - ongoing
       description: >
-        Atuo como em uma posição full-stack mais focada em backend. Compondo o time responsável por produtos de cashback. Colaboro com todo o ciclo de desenvolvimento incluindo testes, resolução de bugs, code review, levantamento de requisitos, infraestrutura, etc.
+        Atuo como full-stack, mais focado em desenvolvimento backend. Compondo o time responsável por produtos de cashback. Colaboro com todo o ciclo de desenvolvimento incluindo testes, resolução de bugs, code review, levantamento de requisitos, infraestrutura, etc.
     - name: Anbetec
       position: Engenheiro de Software
       period: Fev/2022 - Maio/2022
