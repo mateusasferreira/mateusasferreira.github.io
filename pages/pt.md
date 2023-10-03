@@ -1,69 +1,82 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: cv
 permalink: /pt
 
 title: Mateus Ferreira
 description: >
-    My beautiful resume
+    Sou um Engenheiro de Software com experiência em desenvolvimento full-stack. Me considero um profissional flexível e um solucionador de problemas antes de tudo. 
 technologies:
-  title: Technologies
+  title: Tecnologias
   sections:
-    - title: That I've been working with on a daily basis
+    - title: Com as quais trabalho diariamente
       entries:
         - name: Node.js
           src_path: /assets/img/nodejs-original.svg
         - name: Python
           src_path: /assets/img/python-original.svg
-    - title: That I use sometimes or have used for a while
+        - name: Docker
+          src_path: /assets/img/docker-original.svg
+        - name: Postgresql
+          src_path: /assets/img/postgresql-original.svg
+        - name: Git 
+          src_path: /assets/img/git-original.svg
+        - name: Linux
+          src_path: /assets/img/linux-original.svg
+        - name: Jest
+          src_path: /assets/img/jest-plain.svg
+        - name: Pytest
+          src_path: /assets/img/pytest-plain.svg
+    - title: Com as quais tenho alguma experiência ou uso às vezes
       entries:
         - name: React
           src_path: /assets/img/react-original.svg
         - name: Angular
           src_path: /assets/img/angularjs-original.svg
+        - name: AWS Services
+          src_path: /assets/img/aws.png
+        - name: Selenium
+          src_path: /assets/img/selenium-original.svg
 experience:
-  title: Professional Experience
+  title: Experiência Profissional
   entries:
     - name: Maistodos
-      position: Software Engineer
+      position: Engenheiro de Software
       period: Jun/2022 - ongoing
       description: >
-        Aliqua consequat est sunt irure. Occaecat et minim sunt consectetur voluptate minim cillum culpa. Duis proident officia labore aliquip ea proident quis magna eiusmod magna. Anim est cillum tempor nulla culpa anim.
+        Atuo como em uma posição full-stack mais focada em backend. Compondo o time responsável por produtos de cashback. Colaboro com todo o ciclo de desenvolvimento incluindo testes, resolução de bugs, code review, levantamento de requisitos, infraestrutura, etc.
     - name: Anbetec
-      position: Software Engineer
-      period: Feb/2022 - May/2022
+      position: Engenheiro de Software
+      period: Fev/2022 - Maio/2022
       description: >
-        Aliqua consequat est sunt irure. Occaecat et minim sunt consectetur voluptate minim cillum culpa. Duis proident officia labore aliquip ea proident quis magna eiusmod magna. Anim est cillum tempor nulla culpa anim.
+        Contribui para o desenvolvimento de APIs REST e integrações com ERPs por curto período.
     - name: Haittane
-      position: Software Engineer
-      period: Aug/2021 - Feb/2022
+      position: Engenheiro de Software
+      period: Ago/2021 - Fev/2022
       description: >
-        Aliqua consequat est sunt irure. Occaecat et minim sunt consectetur voluptate minim cillum culpa. Duis proident officia labore aliquip ea proident quis magna eiusmod magna. Anim est cillum tempor nulla culpa anim.
+        Atuei como full-stack em produtos variados como APIs REST e websites para diferentes clientes de uma software house, contribuindo ativamente com desenvolvimento de features e POCs, assim como resolução de bugs e deploy de aplicações.
 education:
-  title: Education
+  title: Educação
   entries:
     - institution: Faculdade Impacta
-      period: Feb/2021 - Dec/2023
-      name: Software Analysis and Development
-      type: Technologist Degree
+      period: Fev/2021 - Dez/2023
+      name: Análise e Desenvolvimento de Sistemas
+      type: Tecnólogo
 extras:
-  - title: Languages
+  - title: Linguagens
     entries:
-      - Portuguese (Native)
-      - English (Fluent)
-      - Spanish (Advanced)
-  - title: Soft Skilss
+      - Português (Nativo)
+      - Inglês (Fluente)
+      - Espanhol (Avançado)
+  - title: Soft Skills
     entries:
-      - Communication
-      - Team Playing
-      - Curiosity
-      - Fast Learning
+      - Comunicação
+      - Trabalho em equipe
+      - Curiosidade
+      - Aprendizado rápido
   - title: Hobbies
     entries:
-      - Cooking
-      - Music
-      - Football
+      - Cozinhar
+      - Música
+      - Futebol
 
 ---
