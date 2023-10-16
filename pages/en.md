@@ -43,7 +43,7 @@ experience:
       position: Software Engineer
       period: Jun/2022 - ongoing
       description: >
-        I've been acting as a full-stack engineer on cashback products, colaborating to the entire development lifecycle including development, testing, bug fixing, code review, requirements analisys, etc.
+        I've been acting as a full-stack engineer on cashback products, collaborating on the entire development lifecycle including development, testing, bug fixing, code review, requirements analysis, etc.
     - name: Anbetec
       position: Software Engineer
       period: Feb/2022 - May/2022
