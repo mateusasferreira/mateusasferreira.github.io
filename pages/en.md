@@ -18,6 +18,8 @@ technologies:
           src_path: /assets/img/docker-original.svg
         - name: Postgresql
           src_path: /assets/img/postgresql-original.svg
+        - name: Angular
+          src_path: /assets/img/angularjs-original.svg
         - name: Git 
           src_path: /assets/img/git-original.svg
         - name: Linux
@@ -30,8 +32,6 @@ technologies:
       entries:
         - name: React
           src_path: /assets/img/react-original.svg
-        - name: Angular
-          src_path: /assets/img/angularjs-original.svg
         - name: AWS Services
           src_path: /assets/img/aws.png
         - name: Selenium
