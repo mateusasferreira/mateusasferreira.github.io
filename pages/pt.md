@@ -53,7 +53,7 @@ experience:
       description: >
         Contribui para o desenvolvimento de APIs REST e integrações com ERPs por curto período.
     - name: Haittane
-      location: São Paulo - SP (São Paulo)
+      location: São Paulo - SP (Remoto)
       position: Engenheiro de Software
       period: Ago/2021 - Fev/2022
       description: >
