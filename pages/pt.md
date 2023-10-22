@@ -5,6 +5,7 @@ permalink: /pt
 title: Mateus Ferreira
 description: >
     Sou um Engenheiro de Software com experiência em desenvolvimento full-stack. Me considero um profissional flexível e um solucionador de problemas antes de tudo. 
+location: Brasil
 technologies:
   title: Tecnologias
   sections:
@@ -40,16 +41,19 @@ experience:
   title: Experiência Profissional
   entries:
     - name: Maistodos
+      location: Ribeirão Preto - SP (Remoto)
       position: Engenheiro de Software
       period: Jun/2022 - ongoing
       description: >
         Atuo como full-stack, mais focado em desenvolvimento backend. Compondo o time responsável por produtos de cashback. Colaboro com todo o ciclo de desenvolvimento incluindo testes, resolução de bugs, code review, levantamento de requisitos, infraestrutura, etc.
     - name: Anbetec
+      location: Goiânia - GO (Remoto)
       position: Engenheiro de Software
       period: Fev/2022 - Maio/2022
       description: >
         Contribui para o desenvolvimento de APIs REST e integrações com ERPs por curto período.
     - name: Haittane
+      location: São Paulo - SP (São Paulo)
       position: Engenheiro de Software
       period: Ago/2021 - Fev/2022
       description: >

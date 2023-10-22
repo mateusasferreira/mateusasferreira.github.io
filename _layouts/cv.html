@@ -8,10 +8,8 @@ layout: default
             <img class="profile-img" src="/assets/img/profile.png">
         </div>
         <h1 style="line-height: 1.25;">{{ page.title }}</h1>
-
+        <p class="blur secondary"><i class="fa-solid fa-location-dot"></i> {{ page.location }}</p>
         <p style="margin-bottom: 20px;">{{page.description}}</p>
-
-
         <div style="display: flex; gap: 5px">
          <a href="{{site.linkedin}}" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         <a href = "mailto:{{site.email}}"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -42,7 +40,9 @@ layout: default
               <div class="block">
                 <h3> {{item.name}} </h3>
                 <h4 class="secondary" >{{item.position}}</h4>
+                <small style="display: block; margin: 5px 0;" class="blur secondary"><i class="fa-solid fa-location-dot"></i> {{item.location}}</small>
                 <p class="secondary blur"> {{item.period}} </p>
+                
                 <p> {{item.description}} </p>
               </div>
             {% endfor %}
