@@ -96,7 +96,11 @@ footer {
 
 .printable {
     display: none;
+}
 
+.social-media {
+    display: flex;
+    gap: 5px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -114,7 +118,8 @@ footer {
 }
 
 @media print {
-    nav {
+
+    .not-printable {
         display: none;
     }
 

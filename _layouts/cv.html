@@ -10,9 +10,14 @@ layout: default
         <h1 style="line-height: 1.25;">{{ page.title }}</h1>
         <p class="blur secondary"><i class="fa-solid fa-location-dot"></i> {{ page.location }}</p>
         <p style="margin-bottom: 20px;">{{page.description}}</p>
-        <div style="display: flex; gap: 5px">
-         <a href="{{site.linkedin}}" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-        <a href = "mailto:{{site.email}}"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        <div class="social-media not-printable">
+          <a href="https://{{site.linkedin}}" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+          <a href = "mailto:{{site.email}}"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        </div>
+        <div class="printable">
+          <small><i class="fa-brands fa-linkedin"></i> {{ site.linkedin }}</small>
+          <br>
+          <small><i class="fa-solid fa-envelope"></i> {{ site.email }}</small>
         </div>
     </div>
     <div>
