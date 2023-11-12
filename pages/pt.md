@@ -11,14 +11,16 @@ technologies:
   sections:
     - title: Com as quais trabalho diariamente
       entries:
-        - name: Node.js
-          src_path: /assets/img/nodejs-original.svg
         - name: Python
           src_path: /assets/img/python-original.svg
+        - name: Node.js
+          src_path: /assets/img/nodejs-original.svg
         - name: Docker
           src_path: /assets/img/docker-original.svg
         - name: Postgresql
           src_path: /assets/img/postgresql-original.svg
+        - name: Django
+          src_path: /assets/img/django-plain.svg
         - name: Angular
           src_path: /assets/img/angularjs-original.svg
         - name: Git 
