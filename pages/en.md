@@ -48,18 +48,39 @@ experience:
       period: Jun/2022 - ongoing
       description: >
         I've been acting as a full-stack engineer on cashback products, collaborating on the entire development lifecycle including development, testing, bug fixing, code review, requirements analysis, etc.
+      technologies:
+        - Python
+        - Django
+        - Node.js
+        - Angular
+        - Docker
+        - Selenium
+        - Jest
+        - Pytest
+        - AWS
     - name: Anbetec
       location: Goiânia - GO (Remote)
       position: Software Engineer
       period: Feb/2022 - May/2022
       description: >
         Contributed to the development of REST APIs and integrations to ERP systems for a short period of time.
+      technologies:
+        - Node.js
+        - Express.js
+        - Oracle DB
+        - Docker
     - name: Haittane
       location: São Paulo - SP (Remote)
       position: Software Engineer
       period: Aug/2021 - Feb/2022
       description: >
         Acted as a full-stack engineer on various products such as REST APIs and websites for different clients. Actively contributed to the development of software features and POCs, as well as bug fixing.
+      technologies:
+        - Node.js
+        - Express.js
+        - React
+        - Docker
+        - AWS
 education:
   title: Education
   entries:

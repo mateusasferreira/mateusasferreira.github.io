@@ -48,18 +48,39 @@ experience:
       period: Jun/2022 - actualidad
       description: >
         He actuado como ingeniero full-stack en productos de cashback, colaborando en todo el ciclo de desarrollo, incluyendo desarrollo, pruebas, corrección de errores, revisión de código, análisis de requisitos, etc.
+      technologies:
+        - Python
+        - Django
+        - Node.js
+        - Angular
+        - Docker
+        - Selenium
+        - Jest
+        - Pytest
+        - AWS
     - name: Anbetec
       location: Goiânia - GO (Remoto)
       position: Ingeniero de Software
       period: Feb/2022 - May/2022
       description: >
         Contribuí al desarrollo de APIs REST e integraciones a sistemas ERP durante un corto período de tiempo.
+      technologies:
+        - Node.js
+        - Express.js
+        - Oracle DB
+        - Docker
     - name: Haittane
       location: São Paulo - SP (Remoto)
       position: Ingeniero de Software
       period: Ago/2021 - Feb/2022
       description: >
         Actué como ingeniero full-stack en diversos productos como APIs REST y sitios web para diferentes clientes. Contribuí activamente al desarrollo de características de software y POCs, así como a la corrección de errores.
+      technologies:
+        - Node.js
+        - Express.js
+        - React
+        - Docker
+        - AWS
 education:
   title: Educación
   entries:

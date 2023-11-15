@@ -47,8 +47,11 @@ layout: default
                 <h4 class="secondary" >{{item.position}}</h4>
                 <small style="display: block; margin: 5px 0;" class="blur secondary"><i class="fa-solid fa-location-dot"></i> {{item.location}}</small>
                 <p class="secondary blur"> {{item.period}} </p>
-                
                 <p> {{item.description}} </p>
+                <p class="blur secondary" style="font-size: 0.7em">
+                  ({% for item in item.technologies %}{{item}}{% unless forloop.last %}, {% endunless -%}
+                  {% endfor %})
+                </p>
               </div>
             {% endfor %}
           </div>
