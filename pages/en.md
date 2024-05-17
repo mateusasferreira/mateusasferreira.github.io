@@ -27,14 +27,14 @@ technologies:
           src_path: /assets/img/linux-original.svg
         - name: Pytest
           src_path: /assets/img/pytest-plain.svg
+        - name: AWS Services
+          src_path: /assets/img/aws.png
     - title: That I have some experience or have to deal with sometimes
       entries:
         - name: Angular
           src_path: /assets/img/angularjs-original.svg
         - name: React
           src_path: /assets/img/react-original.svg
-        - name: AWS Services
-          src_path: /assets/img/aws.png
         - name: Selenium
           src_path: /assets/img/selenium-original.svg
 experience:

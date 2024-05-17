@@ -11,7 +11,6 @@ technologies:
   sections:
     - title: Con las que he estado trabajando a diario
       entries:
-        entries:
         - name: Python
           src_path: /assets/img/python-original.svg
         - name: Django
@@ -28,14 +27,14 @@ technologies:
           src_path: /assets/img/linux-original.svg
         - name: Pytest
           src_path: /assets/img/pytest-plain.svg
+        - name: AWS Services
+          src_path: /assets/img/aws.png
     - title: Con las que tengo alguna experiencia o trato ocasionalmente
       entries:
         - name: Angular
           src_path: /assets/img/angularjs-original.svg
         - name: React
           src_path: /assets/img/react-original.svg
-        - name: AWS Services
-          src_path: /assets/img/aws.png
         - name: Selenium
           src_path: /assets/img/selenium-original.svg
 experience:
