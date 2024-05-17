@@ -4,7 +4,7 @@ permalink: /pt
 
 title: Mateus Ferreira
 description: >
-    Sou um Engenheiro de Software com experiência em desenvolvimento full-stack. Me considero um profissional flexível e um solucionador de problemas antes de tudo. 
+    Sou um Engenheiro de Software com experiência em desenvolvimento full-stack, porém focado em back-end. Me considero um profissional flexível e um solucionador de problemas antes de tudo. 
 location: Brasil
 technologies:
   title: Tecnologias

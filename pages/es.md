@@ -4,7 +4,7 @@ permalink: /es
 
 title: Mateus Ferreira
 description: >
-    Soy un ingeniero de software brasileño con habilidades en desarrollo full-stack. Me considero un profesional flexible y un solucionador de problemas después de todo.
+    Soy un ingeniero de software brasileño con habilidades en desarrollo full-stack pero enfocado en back-end. Me considero un profesional flexible y un solucionador de problemas después de todo.
 location: Brasil
 technologies:
   title: Tecnologías

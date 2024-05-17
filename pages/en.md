@@ -4,7 +4,7 @@ permalink: /en
 
 title: Mateus Ferreira
 description: >
-    I'm a Brazilian Software Engineer with skills in full-stack development. I consider myself a flexible professional and a problem solver after all. 
+    I'm a Brazilian Software Engineer with skills in full-stack development but focused on back-end. I consider myself a flexible professional and a problem solver after all. 
 location: Brazil
 technologies:
   title: Technologies
