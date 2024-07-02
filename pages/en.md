@@ -45,7 +45,15 @@ experience:
       location: Ribeirão Preto - SP (Remote)
       period: Jun/2022 - ongoing
       description: >
-        I've been acting as a full-stack engineer on cashback products, collaborating on the entire development lifecycle including development, testing, bug fixing, code review, requirements analysis, etc.
+        <ul>
+          <li> Development of new features and maintenance of a cashback service that integrates with an app with over 3.5 million users. </li>
+          <li> Scaling, refactoring, and remodeling of legacy services. <br> </li>
+          <li> Designing and implementing solutions to tackle Key Results. </li>
+          <li> Integration with payment services. </li>
+          <li> Contributing to code quality, service observability, automated tests, and Continuous Integration. </li>
+          <li> Mentoring new team members.  </li>
+          <li> Contributing to team culture with pair programming sessions and code reviews. </li>
+        </ul>
       technologies:
         - Python
         - Django
@@ -61,7 +69,10 @@ experience:
       position: Software Engineer
       period: Feb/2022 - May/2022
       description: >
-        Contributed to the development of REST APIs and integrations to ERP systems for a short period of time.
+        <ul>
+        <li> Developed a REST API to integrate an ERP service with web applications. </li>
+        <li> Bug solving and improvement of existing APIs. </li>
+        </ul>
       technologies:
         - Node.js
         - Express.js
@@ -72,7 +83,11 @@ experience:
       position: Software Engineer
       period: Aug/2021 - Feb/2022
       description: >
-        Acted as a full-stack engineer on various products such as REST APIs and websites for different clients. Actively contributed to the development of software features and POCs, as well as bug fixing.
+        <ul>
+          <li> Developed a portfolio website for an end client from scratch. </li>
+          <li> Developed an e-commerce website with WordPress. </li>
+          <li> Developed an MVP for an NFT Marketplace. </li>
+        </ul>
       technologies:
         - Node.js
         - Express.js

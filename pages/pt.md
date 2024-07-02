@@ -45,7 +45,15 @@ experience:
       position: Engenheiro de Software
       period: Jun/2022 - ongoing
       description: >
-        Atuo como full-stack, mais focado em desenvolvimento backend. Compondo o time responsável por produtos de cashback. Colaboro com todo o ciclo de desenvolvimento incluindo testes, resolução de bugs, code review, levantamento de requisitos, infraestrutura, etc.
+        <ul>
+          <li> Desenvolvimento de novas funcionalidades e manutenção de serviço de cashback integrado a um aplicativo com mais de 3,5 milhões de usuários. </li>
+          <li> Scaling, refatoração e remodelação de serviços legados. <br> </li>
+          <li> Design e implementação de soluções para lidar com Key Results. </li>
+          <li> Integração com serviços de pagamento. </li>
+          <li> Contribuição para a qualidade do código, observabilidade dos serviços, testes automatizados e integração contínua. </li>
+          <li> Mentoria de novos membros da equipe. </li>
+          <li> Contribuição com a cultura da equipe com sessões de programação em pares e revisões de código. </li>
+        </ul>
       technologies:
         - Python
         - Django
@@ -61,7 +69,10 @@ experience:
       position: Engenheiro de Software
       period: Fev/2022 - Maio/2022
       description: >
-        Contribui para o desenvolvimento de APIs REST e integrações com ERPs por curto período.
+        <ul>
+          <li> Desenvolvi uma API REST para integrar um serviço ERP com aplicações web. </li>
+          <li> Resolução de bugs e melhoria de APIs existentes. </li>
+        </ul>
       technologies:
         - Node.js
         - Express.js
@@ -72,7 +83,11 @@ experience:
       position: Engenheiro de Software
       period: Ago/2021 - Fev/2022
       description: >
-        Atuei como full-stack em produtos variados como APIs REST e websites para diferentes clientes de uma software house, contribuindo ativamente com desenvolvimento de features e POCs, assim como resolução de bugs e deploy de aplicações.
+          <ul>
+            <li> Desenvolvi um site de portfólio para um cliente final do zero. </li>
+            <li> Desenvolvi um e-commerce em WordPress. </li>
+            <li> Desenvolvi um MVP para um Marketplace NFT. </li>
+          </ul>
       technologies:
         - Node.js
         - Express.js

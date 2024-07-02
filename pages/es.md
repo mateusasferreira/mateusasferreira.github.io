@@ -45,7 +45,15 @@ experience:
       location: Ribeirão Preto - SP (Remoto)
       period: Jun/2022 - actualidad
       description: >
-        He actuado como ingeniero full-stack en productos de cashback, colaborando en todo el ciclo de desarrollo, incluyendo desarrollo, pruebas, corrección de errores, revisión de código, análisis de requisitos, etc.
+        <ul>
+        <li> Desarrollo de nuevas funcionalidades y mantenimiento de un servicio de cashback integrado en una aplicación con más de 3,5 millones de usuarios. </li>
+        <li> Scaling, refactorizar y remodelar códigos y servicios heredados. <br> </li>
+        <li> Diseñar e implementar soluciones para abordar los Resultados Clave. </li>
+        <li> Integración con servicios de pago. </li>
+        <li> Contribuir a la calidad del código, la observabilidad del servicio, las pruebas automatizadas y la integración continua. </li>
+        <li> Asesoramiento a nuevos miembros del equipo. </li>
+        <li>Contribuya a la cultura del equipo con sesiones de programación en pareja y revisiones de código. </li>
+        </ul>
       technologies:
         - Python
         - Django
@@ -61,7 +69,10 @@ experience:
       position: Ingeniero de Software
       period: Feb/2022 - May/2022
       description: >
-        Contribuí al desarrollo de APIs REST e integraciones a sistemas ERP durante un corto período de tiempo.
+        <ul>
+        <li> Desarrollé una API REST para integrar un servicio ERP con aplicaciones web. </li>
+        <li> Resolución de errores y mejora de las API existentes. </li>
+        </ul>
       technologies:
         - Node.js
         - Express.js
@@ -72,7 +83,11 @@ experience:
       position: Ingeniero de Software
       period: Ago/2021 - Feb/2022
       description: >
-        Actué como ingeniero full-stack en diversos productos como APIs REST y sitios web para diferentes clientes. Contribuí activamente al desarrollo de características de software y POCs, así como a la corrección de errores.
+        <ul>
+        <li> Desarrollé un sitio web de cartera para un cliente final desde cero. </li>
+        <li>Desarrollé un comercio electrónico en WordPress. </li>
+        <li> Desarrollé un MVP para un mercado NFT. </li>
+        </ul>
       technologies:
         - Node.js
         - Express.js
