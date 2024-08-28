@@ -43,7 +43,7 @@ experience:
     - name: Maistodos
       location: Ribeirão Preto - SP (Remoto)
       position: Engenheiro de Software
-      period: Jun/2022 - ongoing
+      period: Jun/2022 - atualmente
       description: >
         <ul>
           <li> Desenvolvimento de novas funcionalidades e manutenção de serviço de cashback integrado a um aplicativo com mais de 3,5 milhões de usuários. </li>
