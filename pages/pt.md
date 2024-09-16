@@ -17,6 +17,8 @@ technologies:
           src_path: /assets/img/django-plain.svg
         - name: Postgresql
           src_path: /assets/img/postgresql-original.svg
+        - name: Celery
+          src_path: /assets/img/celery_logo.png
         - name: Node.js
           src_path: /assets/img/nodejs-original.svg
         - name: Docker
@@ -57,6 +59,8 @@ experience:
       technologies:
         - Python
         - Django
+        - Postgresql
+        - Celery
         - Node.js
         - Angular
         - Docker
