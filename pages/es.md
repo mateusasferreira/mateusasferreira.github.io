@@ -105,6 +105,14 @@ education:
       period: Feb/2021 - Dic/2023
       name: Análisis y Desarrollo de Software
       type: Título de Tecnólogo
+certifications:
+  title: Certificaciones
+  entries:
+    - name: AWS Certified Cloud Practitioner
+      icon: /assets/img/aws-cloud-practitioner.png
+      issued_in: Dec/2024
+      expires_in: Dec/2027
+      url: https://www.credly.com/badges/2be720fd-bc37-48f4-a274-01994f5caf68/linked_in_profile
 extras:
   - title: Idiomas
     entries:
