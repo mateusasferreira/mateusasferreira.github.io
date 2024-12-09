@@ -19,6 +19,19 @@ layout: default
           <br>
           <small><i class="fa-solid fa-envelope"></i> {{ site.email }}</small>
         </div>
+        <div class="section-flex" style="margin-top: 50px;">
+          {% for extra in page.extras %}
+            <div>
+
+            <h2>{{extra.title}}</h2>
+
+            {% for entry in extra.entries %}
+              <p>{{entry}}</p>
+            {% endfor %}
+            </div>
+          {% endfor %}
+
+        </div>
     </div>
     <div>
         <div class="section">
@@ -75,19 +88,7 @@ layout: default
             {% endfor %}
           </div>
 
-          <div class="section-flex">
-            {% for extra in page.extras %}
-              <div>
-
-              <h2>{{extra.title}}</h2>
-
-              {% for entry in extra.entries %}
-                <p>{{entry}}</p>
-              {% endfor %}
-              </div>
-            {% endfor %}
-
-          </div>
+          
 
     </div>
 </div>

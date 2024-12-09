@@ -125,10 +125,10 @@ extras:
       - Team Playing
       - Curiosity
       - Fast Learning
-  - title: Hobbies
-    entries:
-      - Cooking
-      - Music
-      - Football
+  # - title: Hobbies
+  #   entries:
+  #     - Cooking
+  #     - Music
+  #     - Football
 
 ---

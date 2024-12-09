@@ -126,10 +126,10 @@ extras:
       - Trabalho em equipe
       - Curiosidade
       - Aprendizado rápido
-  - title: Hobbies
-    entries:
-      - Cozinhar
-      - Música
-      - Futebol
+  # - title: Hobbies
+  #   entries:
+  #     - Cozinhar
+  #     - Música
+  #     - Futebol
 
 ---

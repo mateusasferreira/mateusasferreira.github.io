@@ -125,10 +125,10 @@ extras:
       - Trabajo en Equipo
       - Curiosidad
       - Aprendizaje Rápido
-  - title: Pasatiempos
-    entries:
-      - Cocina
-      - Música
-      - Fútbol
+  # - title: Pasatiempos
+  #   entries:
+  #     - Cocina
+  #     - Música
+  #     - Fútbol
 
 ---
